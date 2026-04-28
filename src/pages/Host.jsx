@@ -6,7 +6,7 @@ export default function Host() {
   return (
     <div id="page-host">
       <div className="page-hero">
-        <div className="page-hero-bg" style={{ backgroundImage: "url('/images/Green-background.jpg')" }}></div>
+        <div className="page-hero-bg" style={{ backgroundImage: "url('/images/Green-background-baseball.jpg')" }}></div>
         <div className="page-hero-overlay"></div>
         <div className="page-hero-inner">
           <div className="section-tag">Your Host</div>
